@@ -1,0 +1,14 @@
+{
+	"name":"com.yimitools.xlua-tools",
+	"version":"0.0.1",
+	"displayName":"Xlua Tools",
+	"description":"a set of utility tool with xlua",
+	"unity":"2019.2",
+	"dependencies":{},
+	"keywords":["utility","xlua"],
+	"author":{
+		"name":"Yimi Chen",
+		"email":"455022370@qq.com",
+		"url":"https://www.yimicgh.top"
+	}
+}
